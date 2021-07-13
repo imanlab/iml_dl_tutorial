@@ -157,7 +157,7 @@ It's a complete tutorial, good for beginners, touching the following topics: Seq
 Useful extensions:
 - [Saving the model](https://machinelearningmastery.com/save-load-keras-deep-learning-models/)
 - [Model summary](https://machinelearningmastery.com/visualize-deep-learning-neural-network-model-keras/)
-- [Train and test datasets - Display learning curves](https://machinelearningmastery.com/)display-deep-learning-model-training-history-in-keras/
+- [Train and test datasets - Display learning curves](https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/)
 - [Keras Functional API](https://machinelearningmastery.com/keras-functional-api-deep-learning/)
 - [Hyperparameters search](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
 
