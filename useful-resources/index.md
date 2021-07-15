@@ -14,6 +14,9 @@
     - [Topics](#topics-2)
   - [Machine Learning Mastery](#machine-learning-mastery)
     - [Material](#material-3)
+  - [StatQuest](#statquest)
+    - [Material](#material-4)
+    - [Topics](#topics-3)
 
 This is a curated collection of useful resources to start with deep learning.
 
@@ -44,7 +47,7 @@ The labs are somewhat helpful, but are quite difficult as a first hands-on appro
 http://introtodeeplearning.com/  
 A summary of all the course contents. Links to lectures, material and labs.
 
-**Youtube playlist of past lectures**
+**YouTube playlist of past lectures**
 
 https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI  
 A playlist, updated year by year, containing all the lectures of the past editions of the course. It's recommended to follow the most recent one.
@@ -171,3 +174,32 @@ Useful extensions:
 - [Weight regularization](https://machinelearningmastery.com/weight-regularization-to-reduce-overfitting-of-deep-learning-models/)
 - [Data augmentation](https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/)
 - [Batch normalization](https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/)
+
+## StatQuest
+
+StatQuest is a YouTube channel providing almost 200 videos on various topics regarding statistics, machine learning and deep learning.  
+The videos have a very slow pace, introducing all necessary content or linking to previous videos where prerequisites have already been presented in more detail. The maths are presented in detail although without many formalisms (the concepts are presented in order to require only very basic math prerequisites).
+
+In general this channel is really good to get a good, clear and intuitive explanation on any given topic, with a particular focus on statistics and machine learning in general, although there is a playlist devoted to deep learning.
+
+### Material
+
+**Video index**
+https://statquest.org/video-index/
+
+This webpage collects all the videos of the channel, including the playlists (which are great if you want to cover some macro-topic, following the videos in order) and even some livestreams. The best way to access content is to look for keywords here and find the most useful videos.
+
+### Topics
+
+These are the main playlists available on the channel, each covering a macro-topic.
+
+**Statistic fundamentals**: https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
+
+**Linear regression and linear models**: https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU
+
+**Logistic regression**: https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe
+
+**Machine learning**: https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+
+**Neural networks**: https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1
+
