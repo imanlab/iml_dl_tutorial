@@ -13,7 +13,7 @@ It contains a curated collection of useful resources and some simple projects th
 
 ## Getting Started
 
-If you are completely new the best place to start probably is the [useful resources](useful-resources/index.md) page.
+If you are completely new the best place to start probably is the [useful resources](useful-resources/README.md) page.
 
 ## Contact 
 
