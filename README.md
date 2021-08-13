@@ -3,6 +3,7 @@
 - [Deep learning tutorial](#deep-learning-tutorial)
   - [About](#about)
   - [Getting Started](#getting-started)
+  - [Examples](#examples)
   - [Contact](#contact)
   - [Acknowledgements](#acknowledgements)
 
@@ -15,10 +16,13 @@ It contains a curated collection of useful resources and some simple projects th
 
 If you are completely new the best place to start probably is the [useful resources](useful-resources/README.md) page.
 
+## Examples
+
+The folder [examples](examples) contains some practical examples that you can look at, analyze and test to get a first hands-on experience with deep learning code.
+
 ## Contact 
 
 This repository is authored by [@GioBonvi](https://github.com/GioBonvi) and [@taffi98](https://github.com/taffi98).
-
 
 ## Acknowledgements
 
