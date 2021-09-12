@@ -5,7 +5,7 @@ def load_data(csv_path):
         # Load data from the CSV file.
         data = np.loadtxt(csv_path, delimiter=",")
         
-        # Split data between input (first 9 columns) and output (last column).
+        # Split data between input (first 8 columns) and output (last column).
         # Input.
         X = data[:, 0:8]
         # Output.
