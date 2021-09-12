@@ -2,6 +2,9 @@
 
 This is a simple Deep Learning example based on [this tutorial](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/) and some extensions suggested in the article itself.
 
+This example is available on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imanlab/iml_dl_tutorial/blob/master/examples/simple-ff-network/simple-ff-network-colab.ipynb)
+
+
 ## Prerequisites
 
 You can run this example on your laptop without any major issues: no big CPU nor any GPU is required.  
