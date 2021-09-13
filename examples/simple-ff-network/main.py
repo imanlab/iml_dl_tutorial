@@ -2,7 +2,7 @@
 
 from sklearn.model_selection import train_test_split
 
-from dataset import load_data, DataGenerator
+from data import load_data
 from model import get_model_functional, get_model_sequential
 from output import plot_history
 
@@ -30,8 +30,6 @@ X, y = load_data(csv_path='data/pima-indians-diabetes.csv')
 # Split train and test (or validation) dataset.
 # For more information see: https://machinelearningmastery.com/train-test-split-for-evaluating-machine-learning-algorithms/
 X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=test_fraction, shuffle=True, random_state=random_state)
-train_gen = DataGenerator(X_train, y_train, batch_size=batch_size, random_state=random_state)
-val_gen = DataGenerator(X_val, y_val, batch_size=batch_size, random_state=random_state)
 
 # MODEL DEFINITION
 
