@@ -14,11 +14,11 @@ It contains a curated collection of useful resources and some simple projects th
 
 ## Getting Started
 
-If you are completely new the best place to start probably is the [useful resources](useful-resources/) page.
+If you are completely new the best place to start probably is the ["where to start"](resources/where-to-start.md) page.
 
 ## Examples
 
-The folder [examples](examples) contains some practical examples that you can look at, analyze and test to get a first hands-on experience with deep learning code.
+The [examples](examples) folder contains some practical examples that you can look at, analyze and test to get a first hands-on experience with deep learning code.
 
 ## Contact 
 
