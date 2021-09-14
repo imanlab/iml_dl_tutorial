@@ -22,7 +22,7 @@ In summary there are three steps when studying ML/DL (or pretty much any topic).
 These steps should be followed in order: it does not make any sense to go in the specifics of Keras if you don't know what a neural network is or without having grasped the basics of Python.
 
 This does not mean that you should necessarily start from the beginning or dedicate the same amount of time to each step. You might already be familiar with Python or you might already have an intuitive knowledge about the basics of DL. What you have to do is follow these steps and spend some time learning what you don't know yet.  
-Note that step 2 and 3 in particular cannot be easily separated: you should definitely start with a general view of the most common concepts withuot looking at practical implementation and codes, but from a  certain point on the practical part becomes crucial and from that point onwards the two will go hand in hand. You will always find new concepts to learn.
+Note that step 2 and 3 in particular cannot be easily separated: you should definitely start with a general view of the most common concepts without looking at practical implementation and codes, but from a  certain point on the practical part becomes crucial and from that point onwards the two will go hand in hand. You will always find new concepts to learn.
 
 ## Prerequisites
 
@@ -35,6 +35,11 @@ It's hard to say exactly how confident you should feel before moving on, but for
 - Not necessarily mandatory, but can often be useful (depends on the application of DL): image handling (PIL package) and basic knowledge of the `panda` package.
 - It's not as much of a prerequisite because it can be learnt along the way with DL packages, but the use of the packages `numpy` and `matplotlib`. If you already know `Matlab` they will look really familiar.
 - The basics of Object Oriented Programming (OOP), classes and inheritance.
+
+One brief note regarding the OS: there is not much preventing you from using Windows or MacOS for this kind of work, especially at the beginning, but the more you go deeper the more you will realize that Linux is the _de facto_ standard for programming and data science. Some programs might only be available for Linux, some models might be built on Linux and have no guarantee to work on other systems and so on.  
+For Windows in particular it has to e said that it is not really programmer-friendly and some things might make your life more difficult.
+
+You can choose to start with the system you are most familiar with and possibly switch at a later time or to switch immediately and learn Linux along with everything else. In any case the best thing to do is not replacing your current OS with a Linux OS, but to do what is called a dual-boot installation, where you place both systems on your computer and choose at startup which one to open. You will find lots of guides on how to do this online. Other alternatives to this, such as using the Windows Subsystem for Linux (WSL) or a virtual machine, are not as effective especially in teh DL field due to the intensive load on the system resources.
 
 ## General understanding
 
