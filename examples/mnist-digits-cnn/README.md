@@ -5,10 +5,12 @@ It will introduce you to CNNs and the basics of image data pipelines.
 
 The objective of this model is to take in a simple black and white image of an handwritten digit and predict the digit it represents. The dataset we are using is quite famous in the AI world and is called [MNIST](http://yann.lecun.com/exdb/mnist/).
 
+This example is available on Colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imanlab/iml_dl_tutorial/blob/master/examples/mnist-digits-cnn/mnist-digits-cnn-colab.ipynb)
+
 ## Prerequisites
 
 You can run this example on your laptop without any major issues, except that the model will be quite slow to train. Depending on the performance of you machine it might take from 15 minutes to more than one our. A GPU would speed this process up by a lot, but setting up A GPU environment is outside of the scope of this guide and the training is still doable with CPU only.  
-The only requisites are some Python packages which will be listed later on.
+If you want to experiment with the difference in performance between CPU and GPU use the Google Colab version of this example.
 
 ## Data
 
