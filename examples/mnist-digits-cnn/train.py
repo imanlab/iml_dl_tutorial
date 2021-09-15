@@ -4,9 +4,9 @@ from output import plot_history, plot_samples
 
 
 # Load data from the directory where images are stored.
-(X_train, y_train), (X_test, y_test) = load_dataset(data_dir="data")
+(X_train, y_train), (X_test, y_test), one_hot_encoder = load_dataset(data_dir="data")
 # Show a subset of the samples.
-plot_samples(X_train[0:9], y_train[0:9], columns=3)
+plot_samples(X_train[0:9], y_train[0:9], one_hot_encoder, columns=3)
 
 model = get_model()
 # Train the model.

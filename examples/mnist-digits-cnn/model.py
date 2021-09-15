@@ -30,7 +30,7 @@ def get_model():
     """
     The learning rate and the momentum of the SGD optimizer are hyperparameters of the model:
     you can try running multiple training cycles with different values and see how they affect the results.
-    """ 
+    """
     opt = SGD(learning_rate=0.01, momentum=0.9)
     """
     The categorical crossentropy loss function is used in classification problems.

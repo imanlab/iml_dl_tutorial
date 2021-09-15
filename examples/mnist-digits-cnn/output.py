@@ -3,17 +3,18 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-def plot_samples(X, y, columns=3):
+def plot_samples(X, y, one_hot_encoder, columns=3):
     """Show the images and corresponding labels."""
-    N = len(y)
+    N = y.shape[0]
     rows = int(np.ceil(N / columns))
 
     for i, (sample_X, sample_y) in enumerate(zip(X, y)):
         # y values are one-hot-encoded so we need to recover the label (the digit).
-        label = np.argmax(sample_y)
+        label = one_hot_encoder.inverse_transform(sample_y).squeeze()
 
         plt.subplot(rows, columns, i+1)
-        plt.imshow(sample_X, cmap=plt.get_cmap('gray'))
+        # .squeeze() removes the single channel which otherwise causes an error in some versions of matplotlib.
+        plt.imshow(sample_X.squeeze(), cmap=plt.get_cmap('gray'))
         plt.xlabel(f"Label: {label}")
     plt.tight_layout()
     plt.show()
@@ -141,10 +142,10 @@ def annotate_heatmap(im, data=None, valfmt="{x:.2f}",
     return texts
 
 
-def plot_confusion_matrix(data, row_labels, col_labels):
+def plot_confusion_matrix(data, row_labels, col_labels, valfmt):
     fig, ax = plt.subplots()
     im, cbar = heatmap(data, row_labels, col_labels, xlabel="Predicted label", ylabel="True label")
-    annotate_heatmap(im, valfmt="{x:.4f}")
+    annotate_heatmap(im, valfmt=valfmt)
     plt.show()
 
 
