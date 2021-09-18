@@ -19,6 +19,7 @@ If you are completely new the best place to start probably is the ["where to sta
 ## Examples
 
 The [examples](examples) folder contains some practical examples that you can look at, analyze and test to get a first hands-on experience with deep learning code.
+It also contains a simple tutorial for a first approach to Graph Datasets and graph Neural Networks.
 
 ## Contact 
 
