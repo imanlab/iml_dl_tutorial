@@ -1,11 +1,11 @@
 # Coursera Deep Learning Specialization
 
 This specialization course is formed by 5 courses which deepen different topics in the field of Deep Learning.
-- In the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. 
-- In the second course of the Deep Learning Specialization, you will open the deep learning black box to understand the processes that drive performance and generate good results systematically. 
-- In the third course of the Deep Learning Specialization, you will learn how to build a successful machine learning project and get to practice decision-making as a machine learning project leader. 
-- In the fourth course of the Deep Learning Specialization, you will understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
-- In the fifth course of the Deep Learning Specialization, you will become familiar with sequence models and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. 
+- In the **first course** of the Deep Learning Specialization, you will study the foundational concept of **neural networks and deep learning**. 
+- In the **second course** of the Deep Learning Specialization, you will open the deep learning black box to **understand the processes** that drive performance and generate good results systematically. 
+- In the **third course** of the Deep Learning Specialization, you will learn how to build a successful **machine learning project** and get to practice decision-making as a machine learning project leader. 
+- In the **fourth course** of the Deep Learning Specialization, you will understand how **computer vision** has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
+- In the **fifth course** of the Deep Learning Specialization, you will become familiar with **sequence models** and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. 
 
 - [Coursera Deep Learning Specialization](#coursera-deep-learning-specialization)
   - [Tools](#tools)
