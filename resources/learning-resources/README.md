@@ -6,7 +6,7 @@ If you are wondering where to start please have a look [here](../where-to-start.
 
 ## Coursera Machine learning
 
-[This course](Coursera%20Machine%20learning.md)...
+[Coursera Machine learning course](Coursera%20Machine%20learning.md)provides a broad introduction to machine learning, datamining, and statistical pattern recognition. It is mainly theoretical (even if there are some practical projects to develop in Matlab), so it is a good starting point if you are really at the beginning of your learning on ML, DL.
 
 SECTION TO BE COMPLETED
 
