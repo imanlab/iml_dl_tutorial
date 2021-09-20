@@ -10,8 +10,6 @@ You'll learn about not only the theoretical underpinnings of learning, but also 
 
 ## Tools
 
-SECTION TO BE COMPLETED
-
 **Language**: Python, Matlab
 
 
