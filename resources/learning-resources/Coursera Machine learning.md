@@ -19,7 +19,7 @@ SECTION TO BE COMPLETED
 
 **Website**
 
-https://www.coursera.org/learn/machine-learning
+https://www.coursera.org/learn/machine-learning/
 The course website. It provides both the teorethical lessons and the practical projects material in Matlab.
 
 ## Topics
