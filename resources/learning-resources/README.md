@@ -10,7 +10,7 @@ If you are wondering where to start please have a look [here](../where-to-start.
 
 ## Coursera Deep Learning Specialization
 
-[Coursera Deep Learning Specialization course](Coursera%20Deep%20Learning%20Specialization.md) is a course specialized in DL. You will build and train Neural Network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. 
+[Coursera Deep Learning Specialization course](Coursera%20Deep%20Learning%20Specialization.md) is a compilation of courses specialized in DL. You will build and train Neural Network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. 
 
 ## Machine learning mastery
 
