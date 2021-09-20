@@ -91,7 +91,7 @@ The [resource folder](learning-resources) contains a curated collection of usefu
 
 To start with Python most tutorials available online will be OK. [This](learning-resources/W3Schools%20Python%20reference.md) is a good reference to access and get answers quickly.
 
-To explore the general understanding there are three great courses on neural networks and machine learning: [this one from MIT](learning-resources/MIT%206.S191%20-%20Intro%20to%20deep%20learning.md) , [this one from Coursera on ML/DL introduction](learning-resources/Coursera%20Machine%20learning.md) and [this one from Coursera specific on DL ](learning-resources/Coursera%20Deep%20Learning%20Specializationg.md) .  
+To explore the general understanding there are three great courses on neural networks and machine learning: [this one from MIT](learning-resources/MIT%206.S191%20-%20Intro%20to%20deep%20learning.md) , [this one from Coursera on ML/DL introduction](learning-resources/Coursera%20Machine%20Learning.md) and [this one from Coursera specific on DL ](learning-resources/Coursera%20Deep%20Learning%20Specialization.md) .  
 They are all valid and offer quality insights to most basic DL concepts.
 
 Finally, for the practical part, there is [this course from WU](learning-resources/WU%20T81%20558%20-%20Applications%20of%20Deep%20Neural%20Networks.md) which covers most topics very thoroughly and is very programming-oriented as well as [this blog](learning-resources/Machine%20learning%20mastery.md) which covers a multitude of topics in great details, with tutorials and examples.
