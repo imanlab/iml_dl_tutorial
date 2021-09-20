@@ -7,7 +7,7 @@ This specialization course is formed by 5 courses which deepen different topics 
 - In the **fourth course** of the Deep Learning Specialization, you will understand how **computer vision** has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
 - In the **fifth course** of the Deep Learning Specialization, you will become familiar with **sequence models** and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. 
 
-- [Coursera Deep Learning Specialization](#coursera-deep-learning-specialization)
+[Coursera Deep Learning Specialization:](#coursera-deep-learning-specialization)
   - [Tools](#tools)
   - [Material](#material)
   - [Topics](#topics)
