@@ -4,7 +4,7 @@ This is a curated collection of resources which are useful to explore Machine Le
 
 If you are wondering where to start please have a look [here](../where-to-start.md).
 
-## Coursera Neural networks and deep learning
+## Coursera Machine learning
 
 [This course](Coursera%20Machine%20learning.md)...
 
