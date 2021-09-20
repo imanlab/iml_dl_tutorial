@@ -6,7 +6,7 @@ If you are wondering where to start please have a look [here](../where-to-start.
 
 ## Coursera Neural networks and deep learning
 
-[This course](Coursera%20Neural%20networks%20and%20deep%20learning.md)...
+[This course](Coursera%20Machine%20learning.md)...
 
 SECTION TO BE COMPLETED
 
