@@ -15,6 +15,7 @@ This specialization course is formed by 5 courses which deepen different topics 
 ## Tools
 
 **Language**: Python
+
 **Deep learning**: Tensorflow
 
 ## Material
