@@ -1,7 +1,7 @@
 # Coursera Machine Learning
 
 This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. It is mainly theoretical since it explains all the math passages behind the most effective machine learning techniques. In addition to the theoretical lessons there are quizes at the end of every section and some practical projects to be developed in Matlab, in order to became familiar with the basics of the implementation of these algorithms.
-You'll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, you'll learn about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI.
+You'll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems.
 
 - [Coursera Machine Learning](#coursera-machine-learning)
   - [Tools](#tools)
@@ -20,7 +20,7 @@ SECTION TO BE COMPLETED
 **Website**
 
 https://www.coursera.org/learn/machine-learning
-The course website. It provides
+The course website. It provides both the teorethical lessons and the practical projects material in Matlab.
 
 ## Topics
 
